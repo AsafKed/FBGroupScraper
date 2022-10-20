@@ -1,0 +1,13 @@
+# Chromedriver must be locally installed
+chromedriver
+
+# Python cache
+__pycache__/
+
+# Virtual environments
+deia/
+venv/
+virtualenv/
+
+# Private data
+Login.py

@@ -3,4 +3,9 @@
 This repo is used for scraping data from a facebook group. It returns a dataframe with posts and comments and some more information.
 
 ### To use
-Fill in your facebook login details in the Login.py file and download a chromedriver matching your chrome version (a simple Google search should do the trick).
+1. Create Login.py (which won't be tracked because of the gitignore), fill in the following:
+
+> EMAIL = "your email"
+> PASSWORD = "your password"
+
+2. Download a chromedriver matching your chrome version (a simple Google search should do the trick).

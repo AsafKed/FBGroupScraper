@@ -1,3 +1,3 @@
 # Login details
-EMAIL = "TEST"
+EMAIL = "FILL THIS"
 PASSWORD = "FILL THIS"

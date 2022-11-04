@@ -11,3 +11,6 @@ virtualenv/
 
 # Private data
 Login.py
+
+# Data files
+data/
